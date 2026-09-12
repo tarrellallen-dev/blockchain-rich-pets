@@ -2,8 +2,7 @@
 
 Create a repository named `blockchain-rich-pets` from this folder. Describe it as a reusable
 Electron desktop-companion template for Jarvis-style assistants, agent dashboards, trading tools,
-and other apps. Preserve the directory structure. Do not publish it publicly until the owner selects
-a license and confirms redistribution rights for all character artwork.
+and other apps. Preserve the directory structure and keep the MIT License with redistributed copies.
 
 Before claiming it is standalone, add a minimal Electron shell, implement the host adapter listed in
 `docs/INTEGRATION.md`, run the included logic tests, and add a real two-monitor drag smoke test.

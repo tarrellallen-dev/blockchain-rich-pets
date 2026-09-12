@@ -10,7 +10,7 @@ different application's workflow engine.
 
 ## Download
 
-- [Download the complete template ZIP](downloads/blockchain-rich-pets-template.zip)
+- **[Download the complete template ZIP](downloads/blockchain-rich-pets-template.zip)**
 - Developers can also clone this repository and start with `docs/INTEGRATION.md`.
 
 ## What is included
@@ -31,11 +31,10 @@ standalone installer yet. The reference renderer calls The Boy Prodigy's single 
 commands, preferences, and window movement. Replace that small host adapter with calls to your own
 application. Start with `docs/INTEGRATION.md`.
 
-## Repository status
+## License
 
-The parent project is private and UNLICENSED. No open-source license is granted by this archive.
-Before publishing publicly, the owner must choose a license and confirm that every character and
-image asset may be redistributed. A private GitHub repository is appropriate immediately.
+Released under the MIT License. You may use, modify, and redistribute the template in your own app.
+Keep the copyright and license notice with substantial copies of the source.
 
 ## Screenshot checklist
 

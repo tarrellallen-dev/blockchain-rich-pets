@@ -1,3 +1,4 @@
+LICENSE
 electron/companion.ts
 shared/companion.ts
 src/components/Companion.tsx
