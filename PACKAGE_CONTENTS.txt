@@ -1,0 +1,16 @@
+electron/companion.ts
+shared/companion.ts
+src/components/Companion.tsx
+src/components/companion-skins.ts
+src/components/NexusCore.tsx
+src/components/AegisCore.tsx
+src/lib/companion-animation.ts
+src/lib/companion-idle.ts
+src/lib/companion-motion.ts
+src/companion.css
+tests/companion.test.mjs
+src/assets/companion/**
+screenshots/Kavalier.png
+screenshots/Nexus.png
+screenshots/Aegis.png
+docs/Pet-and-Color-Quick-Start.pdf
